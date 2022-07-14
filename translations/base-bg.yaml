@@ -27,7 +27,7 @@ global:
     error: Грешка
     loggingIn: Влизане
 
-    loadingResources: Downloading additional resources (<percentage> %)
+    loadingResources: Изтегляне на допълнителни ресурси (<percentage> %)
 
     # How big numbers are rendered, e.g. "10,000"
     thousandsDivider: ","
@@ -50,21 +50,21 @@ global:
 
     time:
         # Used for formatting past time dates
-        oneSecondAgo: one second ago
-        xSecondsAgo: <x> seconds ago
-        oneMinuteAgo: one minute ago
-        xMinutesAgo: <x> minutes ago
-        oneHourAgo: one hour ago
-        xHoursAgo: <x> hours ago
-        oneDayAgo: one day ago
-        xDaysAgo: <x> days ago
+        oneSecondAgo: преди една секунда
+        xSecondsAgo: <x> преди секунди
+        oneMinuteAgo: преди една минута
+        xMinutesAgo: <x> преди минути
+        oneHourAgo: преди час
+        xHoursAgo: <x> преди часове
+        oneDayAgo: преди един ден
+        xDaysAgo: <x> преди дни
 
         # Short formats for times, e.g. '5h 23m'
-        secondsShort: <seconds>s
-        minutesAndSecondsShort: <minutes>m <seconds>s
-        hoursAndMinutesShort: <hours>h <minutes>m
+        secondsShort: <seconds>сек.
+        minutesAndSecondsShort: <minutes>мин. <seconds>сек.
+        hoursAndMinutesShort: <hours>часа <minutes>мин.
 
-        xMinutes: <x> minutes
+        xMinutes: <x> минути
 
     keys:
         tab: TAB
@@ -76,21 +76,21 @@ global:
 
 demoBanners:
     # This is the "advertisement" shown in the main menu and other various places
-    title: Demo
+    title: Демо
     titleV2: >-
-        Play the full version now for:
+        Играйте пълната версия сега за:
 
     intro: >-
-        Get the full game <strong>now</strong> to unlock:<ul>
-            <li>All 26 levels + infinite Freeplay</li>
-            <li>22 new buildings</li>
-            <li>Mod support</li>
-            <li>Achievements</li>
-            <li>Dark Mode</li>
-            <li>... and a lot more!</li>
+        Вземете пълната игра <strong>сега<strong> за отключване:<ul>
+            <li>Всички 26 нива + безкрайна безплатна игра<li>
+            <li>22 нови сгради<li>
+            <li>Поддръжка на мод<li>
+            <li>Постижения<li>
+            <ли>Дарк Моде<ли>
+            <li>... и много много!<li>
         </ul>
     playtimeDisclaimer: >-
-        The full version contains more than <strong>20 hours of additional content</strong>!
+        Пълната версия съдържа повече от <strong>20 часа допълнително съдържание<strong>!
 
     playtimeDisclaimerDownload: >-
         You can continue your savegame in the full version! Click <strong>here</strong> to download your savegame.

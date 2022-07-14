@@ -139,12 +139,12 @@ mainMenu:
             Playing the Puzzle DLC is not possible with mods. Please disable all mods to play the DLC.
 
 puzzleMenu:
-    play: Play
-    edit: Edit
-    title: Puzzle Mode
-    createPuzzle: Create Puzzle
-    loadPuzzle: Load
-    reviewPuzzle: Review & Publish
+    play: Играй
+    edit: edit
+    title: Пъзели
+    createPuzzle: направи пъзел
+    loadPuzzle: Зареди
+    reviewPuzzle: прегледай и сподели
     validatingPuzzle: Validating Puzzle
     submittingPuzzle: Submitting Puzzle
     noPuzzles: There are currently no puzzles in this section.

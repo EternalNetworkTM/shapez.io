@@ -100,17 +100,17 @@ demoBanners:
     untilEndOfDemo: Until end of demo
 
 mainMenu:
-    play: Play
-    continue: Continue
-    newGame: New Game
+    play: Играй
+    continue: Продължи
+    newGame: Нова игра
     changelog: Changelog
     subreddit: Reddit
-    importSavegame: Import
+    importSavegame: Вмъкни
     openSourceHint: This game is open source!
-    discordLink: Official Discord Server
+    discordLink: Официален Дискорд Сървър
     helpTranslate: Help translate!
     madeBy: Made by <author-link>
-    noActiveSavegames: No active savegames found - Click play to start a new game!
+    noActiveSavegames: Никаква записана игра не е намерена - Натисни играй за да започнеш игра!
 
     playFullVersionV2: Bought shapez on Steam? Play the full version in your Browser!
     playFullVersionStandalone: You can now also play the full version in your Browser!

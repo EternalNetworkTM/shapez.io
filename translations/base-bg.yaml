@@ -206,90 +206,90 @@ puzzleMenu:
 dialogs:
     buttons:
         ok: OK
-        delete: Delete
-        cancel: Cancel
-        later: Later
-        restart: Restart
-        reset: Reset
-        getStandalone: Get on Steam
-        deleteGame: I know what I am doing
-        viewUpdate: View Update
-        showUpgrades: Show Upgrades
-        showKeybindings: Show Keybindings
-        retry: Retry
-        continue: Continue
-        playOffline: Play Offline
+        delete: Изтрий
+        cancel: Откажи
+        later: По-късно
+        restart: Рестарт
+        reset: Рестартирай
+        getStandalone: Вземи в Стеам
+        deleteGame: Аз змам какво правя
+        viewUpdate: Виж Ъпдейт
+        showUpgrades: Покажи Подобрения
+        showKeybindings: Show Keybindings Покажи клавиши(клавиатура)
+        retry: Опитай отново
+        continue: Продължи
+        playOffline: Играй офлайн
 
     importSavegameError:
-        title: Import Error
+        title: Import Error/Грешка при вмъкване
         text: >-
             Failed to import your savegame:
 
     importSavegameSuccess:
-        title: Savegame Imported
+        title: Savegame Imported/записа на играга е успешно вмъкнат
         text: >-
             Your savegame has been successfully imported.
 
     gameLoadFailure:
-        title: Game is broken
+        title: Game is broken/Играта е счупена
         text: >-
             Failed to load your savegame:
 
     confirmSavegameDelete:
-        title: Confirm deletion
+        title: Confirm deletion/Потвърди изтриване
         text: >-
             Are you sure you want to delete the following game?<br><br>
             '<savegameName>' at level <savegameLevel><br><br>
             This can not be undone!
 
     savegameDeletionError:
-        title: Failed to delete
+        title: Failed to delete/Неуспешмо изтриване
         text: >-
             Failed to delete the savegame:
 
     restartRequired:
-        title: Restart required
+        title: Restart required/Рестарт е нужен
         text: >-
             You need to restart the game to apply the settings.
 
     editKeybinding:
-        title: Change Keybinding
+        title: Change Keybinding/промяна на клавишна комбинация
         desc: Press the key or mouse button you want to assign, or escape to cancel.
 
     resetKeybindingsConfirmation:
-        title: Reset keybindings
+        title: Reset keybindings/Рестартирай клавишна комбинация
         desc: This will reset all keybindings to their default values. Please confirm.
 
     keybindingsResetOk:
-        title: Keybindings reset
+        title: Keybindings reset/Всички клавишни комбинаций са рестартирани
         desc: All keybindings have been reset to their defaults values!
 
     featureRestriction:
-        title: Demo Version
+        title: Демо Версия
         desc: You tried to access a feature (<feature>) which is not available in the demo. Consider getting the full version on Steam for the best experience!
 
     oneSavegameLimit:
-        title: Limited savegames
+        title: Limited savegames/Лимитирани записвания на игри
         desc: You can only have one savegame at a time in the demo version. Please remove the existing one or get the full version on Steam!
 
     updateSummary:
-        title: New update!
+        title: New update!/Ново подобрение!
         desc: >-
             Here are the changes since you last played:
 
     upgradesIntroduction:
-        title: Unlock Upgrades
+        title: Unlock Upgrades/Отключи ъпгрейди
         desc: >-
             All shapes you produce can be used to unlock upgrades - <strong>don't destroy your old factories!</strong>
             The upgrades tab can be found on the top right corner of the screen.
 
     massDeleteConfirm:
-        title: Confirm delete
+        title: Confirm delete/Потвърди изтриване
         desc: >-
             You are deleting a lot of buildings (<count> to be exact)! Are you sure you want to do this?
 
     massCutConfirm:
-        title: Confirm cut
+        title: Confirm cut/Потвърди изрязване
         desc: >-
             You are cutting a lot of buildings (<count> to be exact)! Are you sure you want to do this?
 
@@ -334,7 +334,7 @@ dialogs:
         desc: You requested to export your base as a screenshot. Please note that this will be quite slow for a bigger base and could potentially crash your game!
 
     renameSavegame:
-        title: Rename Savegame
+        title: Преименувай запис
         desc: You can rename your savegame here.
 
     tutorialVideoAvailable:

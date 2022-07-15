@@ -757,10 +757,10 @@ shopUpgrades:
 # Buildings and their name / description
 buildings:
     hub:
-        deliver: Deliver
-        toUnlock: to unlock
-        levelShortcut: LVL
-        endOfDemo: End of Demo
+        deliver: Достави
+        toUnlock: за да отключиш
+        levelShortcut: Ниво
+        endOfDemo: Край на Демо
 
     belt:
         default:
@@ -981,14 +981,15 @@ buildings:
 storyRewards:
     # Those are the rewards gained from completing the store
     reward_cutter_and_trash:
-        title: Cutting Shapes
+        title: Cutting Shapes/Рязане на Фигури
         desc: >-
-            You just unlocked the <strong>cutter</strong>, which cuts shapes in half from top to bottom <strong>regardless of its orientation</strong>!<br><br>Be sure to get rid of the waste, or
-            otherwise <strong>it will clog and stall</strong> - For this purpose I have given you the <strong>trash</strong>, which destroys everything you put into it!
+            току-що отключихте <strong>резач</strong>, който разполовява форми отгоре надолу <strong>независимо от ориентацията им</strong>!<br><br>Не забравяйте да се отървете от отпадъците, или
+            в противен случай <strong>ще се задръсти и ще заседне</strong> - За тази цел съм ви дал <strong>кошчето</strong>, което унищожава всичко, което сложите в него!
 
     reward_rotater:
-        title: Rotating
-        desc: The <strong>rotator</strong> has been unlocked! It rotates shapes clockwise by 90 degrees.
+        title: Rotating/Ротатор
+        desc:  Той <strong>Ротатор</strong> завърта форми по посока на часовниковата стрелка на 90 градуса.
+
 
     reward_painter:
         title: Painting
@@ -1017,7 +1018,7 @@ storyRewards:
     reward_rotater_ccw:
         title: CCW Rotating
         desc: >-
-            You have unlocked a variant of the <strong>rotator</strong> - It allows you to rotate shapes counter-clockwise! To build it, select the rotator and
+            You have unlocked a variant of the <strong>Ротатор</strong> - It allows you to rotate shapes counter-clockwise! To build it, select the rotator and
             <strong>press 'T' to cycle through its variants</strong>!
 
     reward_miner_chainable:

@@ -812,31 +812,32 @@ buildings:
     cutter:
         default:
             name: &cutter Cutter
-            description: Cuts shapes from top to bottom and outputs both halves. <strong>If you use only one part, be sure to destroy the other part or it will clog and stall!</strong>
+            description: Изрязва форми отгоре надолу и извежда двете половини. <strong>Ако използвате само една част, не забравяйте да унищожите другата част или тя ще се задръсти и ще спре!</strong>
         quad:
-            name: Cutter (Quad)
-            description: Cuts shapes into four parts. <strong>If you use only one part, be sure to destroy the other parts or it will clog and stall!</strong>
+            name: Резач (4 части)
+            description: Реже форми на четири части. <strong>Ако използвате само една част, не забравяйте да унищожите останалите части или тя ще се задръсти и ще спре!</strong>
 
     rotater:
         default:
             name: &rotater Rotator
-            description: Rotates shapes clockwise by 90 degrees.
+            description: Завърта фигури по часовниковата стрелка с 90 градуса.
         ccw:
             name: Rotator (CCW)
-            description: Rotates shapes counter-clockwise by 90 degrees.
+            description: Завърта фигури обратни на часовниковата стрелка с 90 градуса.
         rotate180:
             name: Rotator (180°)
-            description: Rotates shapes by 180 degrees.
+            description: Завърта фигури  с 180 градуса.
+        ccw:
 
     stacker:
         default:
             name: &stacker Stacker
-            description: Combines its inputs, on the same layer if possible, otherwise the right input is stacked on top of the left input.
+            description: Комбинира своите входове, на един и същ слой, ако е възможно, в противен случай десният вход се подрежда върху левия вход.
 
     mixer:
         default:
             name: &mixer Color Mixer
-            description: Mixes two colors using additive blending.
+            description: Смесва два цвята с помощта на адитивно смесване.
 
     painter:
         default:

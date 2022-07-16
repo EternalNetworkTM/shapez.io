@@ -82,15 +82,15 @@ demoBanners:
 
     intro: >-
         Вземете пълната игра <strong>сега<strong> за отключване:<ul>
-            <li>Всички 26 нива + безкрайна безплатна игра<li>
-            <li>22 нови сгради<li>
-            <li>Поддръжка на мод<li>
-            <li>Постижения<li>
-            <ли>Дарк Моде<ли>
-            <li>... и много много!<li>
+            <li>Всички 26 нива + безкрайна безплатна игра</li>
+            <li>22 нови сгради</li>
+            <li>Поддръжка на мод</li>
+            <li>Постижения</li>
+            <li>Дарк Моде</li>
+            <li>... и много много!</li>
         </ul>
     playtimeDisclaimer: >-
-        Пълната версия съдържа повече от <strong>20 часа допълнително съдържание<strong>!
+        Пълната версия съдържа повече от <strong>20 часа допълнително съдържание</strong>!
 
     playtimeDisclaimerDownload: >-
         You can continue your savegame in the full version! Click <strong>here</strong> to download your savegame.
@@ -1371,19 +1371,19 @@ settings:
 keybindings:
     title: Keybindings
     hint: >-
-        Tip: Be sure to make use of CTRL, SHIFT and ALT! They enable different placement options.
+        Съвет: Не забравяйте да използвате CTRL, SHIFT и ALT! Те позволяват различни опции за разположение.
 
-    resetKeybindings: Reset
+    resetKeybindings: Нулиране
 
     categoryLabels:
-        general: Application
-        ingame: Game
-        navigation: Navigating
-        placement: Placement
-        massSelect: Mass Select
-        buildings: Building Shortcuts
-        placementModifiers: Placement Modifiers
-        mods: Provided by Mods
+        general: Приложение
+        ingame: Игра
+        navigation: Навигиране
+        placement: Поставяне
+        massSelect: Масов избор
+        buildings: Изграждане на преки пътища
+        placementModifiers: Модификатори на разположение
+        mods: Предоставено от Модеве
 
     mappings:
         confirm: Confirm
@@ -1481,17 +1481,17 @@ about:
         Finally, huge thanks to my best friend <a href="https://github.com/niklas-dahl" target="_blank">Niklas</a> - Without our Factorio sessions, this game would never have existed.
 
 changelog:
-    title: Changelog
+    title: Списък с промени
 
 demo:
     features:
-        restoringGames: Restoring savegames
-        importingGames: Importing savegames
-        oneGameLimit: Limited to one savegame
-        customizeKeybindings: Customizing Keybindings
-        exportingBase: Exporting whole Base as Image
+        restoringGames: Възстановяване на запазени игри
+        importingGames: Импортиране на запазени игри
+        oneGameLimit: Ограничено до една запазена игра
+        customizeKeybindings: Персонализиране на клавишни комбинаций
+        exportingBase: Експортиране на цялата база като изображение
 
-    settingNotAvailable: Not available in the demo.
+    settingNotAvailable: Не се предлага в демо версията.
 
 backendErrors:
     ratelimit: You are performing your actions too frequent. Please wait a bit.
@@ -1517,59 +1517,59 @@ backendErrors:
     no-permission: You do not have the permission to perform this action.
 
 tips:
-    - The hub will accept any input, not just the current shape!
-    - Make sure your factories are modular - it will pay out!
-    - Don't build too close to the hub, or it will be a mess!
-    - If stacking does not work, try switching the inputs.
-    - You can toggle the belt planner direction by pressing <b>R</b>.
-    - Holding <b>CTRL</b> allows dragging of belts without auto-orientation.
-    - Ratios stay the same, as long as all upgrades are on the same Tier.
-    - Serial execution is more efficient than parallel.
-    - You will unlock more variants of buildings later in the game!
-    - You can use <b>T</b> to switch between different variants.
-    - Symmetry is key!
-    - You can weave different tiers of tunnels.
-    - Try to build compact factories - it will pay out!
-    - The painter has a mirrored variant which you can select with <b>T</b>
-    - Having the right building ratios will maximize efficiency.
-    - At maximum level, 5 extractors will fill a single belt.
-    - Don't forget about tunnels!
-    - You don't need to divide up items evenly for full efficiency.
-    - Holding <b>SHIFT</b> will activate the belt planner, letting you place long lines of belts easily.
-    - Cutters always cut vertically, regardless of their orientation.
-    - Mix all three primary colors to get white.
-    - The storage buffer prioritises the left output.
-    - Invest time to build repeatable designs - it's worth it!
-    - Holding <b>SHIFT</b> lets you place multiple buildings at a time.
-    - You can hold <b>ALT</b> to invert the direction of placed belts.
-    - Efficiency is key!
-    - Shape patches that are further away from the hub are more complex.
-    - Machines have a limited speed, divide them up for maximum efficiency.
-    - Use balancers to maximize your efficiency.
-    - Organization is important. Try not to cross conveyors too much.
-    - Plan in advance, or it will be a mess!
-    - Don't remove your old factories! You'll need them to unlock upgrades.
-    - Try beating level 20 or 26 on your own before seeking for help!
-    - Don't complicate things, try to stay simple and you'll go far.
-    - You may need to reuse factories later in the game. Build your factories to be reusable.
-    - Sometimes, you can find a needed shape in the map without creating it with stackers.
-    - Full windmills/pinwheels can never spawn naturally.
-    - Color your shapes before cutting for maximum efficiency.
-    - With modules, space is merely a perception; a concern for mortal men.
-    - Make a separate blueprint factory. They're important for modules.
-    - Have a closer look at the color mixer, and your questions will be answered.
-    - Use <b>CTRL</b> + Click to select an area.
-    - Building too close to the hub can get in the way of later projects.
-    - The pin icon next to each shape in the upgrade list pins it to the screen.
-    - Mix all three primary colors to make white!
-    - You have an infinite map. Don't cramp your factory, expand!
-    - Also try Factorio! It's my favorite game.
-    - The quad cutter cuts clockwise, starting from the top right.
-    - You can download your savegames in the main menu!
-    - This game has a lot of useful keybindings! Be sure to check out the settings page.
-    - This game has a lot of settings, be sure to check them out!
-    - Your hub marker has a small compass that shows which direction it is in!
-    - To clear belts, cut the area and then paste it at the same location.
-    - Press F4 to show your FPS and Tick Rate.
-    - Press F4 twice to show the tile of your mouse and camera.
-    - You can click a pinned shape on the left side to unpin it.
+    - Хъбът ще приеме всеки вход, не само текущата форма!
+    - Уверете се, че вашите фабрики са модулни - ще се изплати!
+    - Не строете твърде близо до хъба, или ще стане бъркотия!
+    - Ако подреждането не работи, опитайте да превключите входовете.
+    - Можете да превключвате посоката на планиране на колана, като натиснете <b>R</b>.
+    - Задържането на <b>CTRL</b> позволява плъзгане на колани без автоматично ориентиране.
+    - Съотношенията остават същите, стига всички надстройки да са на едно ниво.
+    - Серийното изпълнение е по-ефективно от паралелното.
+    - Ще отключите повече варианти на сгради по-късно в играта!
+    - Можете да използвате <b>T</b>, за да превключвате между различни варианти.
+    - Симетрията е ключова!
+    - Можете да тъчете различни нива на тунели.
+    - Опитайте се да изградите компактни фабрики - ще се изплати!
+    - Бояджията има огледален вариант, който можете да изберете с <b>T</b>
+    - Наличието на правилните коефициенти на изграждане ще увеличи ефективността.
+    - При максимално ниво 5 екстрактора ще запълнят един колан.
+    - Не забравяйте за тунелите!
+    - Не е необходимо да разделяте елементите равномерно за пълна ефективност.
+    - Задържането на <b>SHIFT</b> ще активира устройството за планиране на колани, което ви позволява лесно да поставяте дълги линии от колани.
+    - Ножите винаги режат вертикално, независимо от тяхната ориентация.
+    - Смесете и трите основни цвята, за да получите бяло.
+    - Буферът за съхранение дава приоритет на левия изход.
+    - Инвестирайте време за изграждане на повтарящи се дизайни - заслужава си!
+    - Задържането на <b>SHIFT</b> ви позволява да поставяте няколко сгради наведнъж.
+    - Можете да задържите <b>ALT</b>, за да обърнете посоката на поставените колани.
+    - Ефективността е ключова!
+    - Пластирите с форма, които са по-далеч от главината, са по-сложни.
+    - Машините имат ограничена скорост, разделете ги за максимална ефективност.
+    - Използвайте балансьори, за да увеличите ефективността си.
+    - Организацията е важна. Опитайте се да не пресичате конвейерите твърде много.
+    - Планирайте предварително, или ще стане бъркотия!
+    - Не премахвайте старите си фабрики! Ще ви трябват, за да отключите надстройки.
+    - Опитайте да победите ниво 20 или 26 сами, преди да потърсите помощ!
+    - Не усложнявайте нещата, опитайте се да останете прости и ще стигнете далеч.
+    - Може да се наложи да използвате повторно фабрики по-късно в играта. Изградете фабриките си така, че да могат да се използват повторно.
+    - Понякога можете да намерите необходимата форма в картата, без да я създавате със стакери.
+    - Пълните вятърни мелници/въртящи се колела никога не могат да се появят естествено.
+    - Оцветете вашите форми преди изрязване за максимална ефективност.
+    - При модулите пространството е просто възприятие; грижа за смъртните хора.
+    - Направете отделна фабрика за чертежи. Те са важни за модулите.
+    - Разгледайте по-отблизо цветния смесител и ще получите отговор на въпросите си.
+    - Използвайте <b>CTRL</b> + щракнете, за да изберете област.
+    - Изграждането твърде близо до центъра може да попречи на по-късните проекти.
+    - Иконата на карфица до всяка форма в списъка за надграждане я закача към екрана.
+    - Смесете и трите основни цвята, за да направите бяло!
+    - Имате безкрайна карта. Не стеснявайте фабриката си, разширете се!
+    - Опитайте и Factorio! Това е любимата ми игра.
+    - Четворният нож реже по посока на часовниковата стрелка, започвайки от горния десен ъгъл.
+    - Можете да изтеглите запазените си игри в главното меню!
+    - Тази игра има много полезни клавишни комбинации! Не забравяйте да проверите страницата с настройки.
+    - Тази игра има много настройки, не забравяйте да ги проверите!
+    - Вашият маркер за главина има малък компас, който показва в коя посока се намира!
+    - За да изчистите колани, изрежете областта и след това я залепете на същото място.
+    - Натиснете F4, за да покажете вашите FPS и Tick Rate.
+    - Натиснете F4 два пъти, за да покажете плочката на мишката и камерата.
+    - Можете да щракнете върху фиксирана фигура от лявата страна, за да я откачите.

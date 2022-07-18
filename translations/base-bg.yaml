@@ -551,63 +551,63 @@ ingame:
 
     # The "Statistics" window
     statistics:
-        title: Statistics
+        title: Статистика
         dataSources:
             stored:
-                title: Stored
-                description: All shapes stored within the Hub.
+                title: Складирано
+                description: Всички  фигуре които са складирани в хъба
             produced:
-                title: Produced
-                description: All shapes produced within your factory, including intermediate products.
+                title: Произведени
+                description: Всички фигури произведени в твоата фабрика, включително заготовките.
             delivered:
-                title: Delivered
-                description: Shapes which are being delivered to the Hub.
-        noShapesProduced: No shapes have been produced so far.
+                title: Доставени
+                description: Фигури които се доставят до Хъба.
+        noShapesProduced: Никакви фигуръ не са произведени досега.
 
         # Displays the shapes per second, e.g. '523 / s'
         shapesDisplayUnits:
-            second: <shapes> / s
-            minute: <shapes> / m
-            hour: <shapes> / h
+            second: <фигура> / с
+            minute: <фигура> / м
+            hour: <фигура> / ч
 
     # Settings menu, when you press "ESC"
     settingsMenu:
-        playtime: Playtime
-        buildingsPlaced: Buildings
-        beltsPlaced: Belts
+        playtime: Игрово време
+        buildingsPlaced: Buildings/поставени сгради ???
+        beltsPlaced: линий
 
     # Bottom left tutorial hints
     tutorialHints:
-        title: Need help?
-        showHint: Show hint
-        hideHint: Close
+        title: Нужда от помощ?
+        showHint: покажи подсказка
+        hideHint: Затвори
 
     # When placing a blueprint
     blueprintPlacer:
-        cost: Cost
+        cost: Цена
 
     # Map markers
     waypoints:
-        waypoints: Markers
-        hub: HUB
+        waypoints: Маркери
+        hub: ХЪБ
         description: >-
             Left-click a marker to jump to it, right-click to delete it.<br><br>Press <keybinding> to create a marker from the current view, or <strong>right-click</strong> to create a marker at the
             selected location.
-        creationSuccessNotification: Marker has been created.
+        creationSuccessNotification: Marker has been created./маркера е създаден??
 
     # Shape viewer
     shapeViewer:
-        title: Layers
-        empty: Empty
-        copyKey: Copy Key
+        title: Layers/Пластове
+        empty: Празно
+        copyKey: Копиране
 
-    # Interactive tutorial
+    # Interactive tutorial3
     interactiveTutorial:
-        title: Tutorial
+        title: Обучение
         hints:
-            1_1_extractor: Place an <strong>extractor</strong> on top of a <strong>circle shape</strong> to extract it!
+            1_1_extractor: Постави <strong>Копач</strong> Върху <strong>кръглата фигура</strong> за да е изкопаеш!
             1_2_conveyor: >-
-                Connect the extractor with a <strong>conveyor belt</strong> to your hub!<br><br>Tip: <strong>Click and drag</strong> the belt with your mouse!
+                Свържи копача  <strong>conveyor belt</strong> до твоя хъб!<br><br>Tip: <strong>Click and drag</strong> с твоята мишка!
 
             1_3_expand: >-
                 This is <strong>NOT</strong> an idle game! Build more extractors and belts to finish the goal quicker.<br><br>Tip: Hold <strong>SHIFT</strong> to place multiple extractors, and use

@@ -566,9 +566,9 @@ ingame:
 
         # Displays the shapes per second, e.g. '523 / s'
         shapesDisplayUnits:
-            second: <фигура> / с
-            minute: <фигура> / м
-            hour: <фигура> / ч
+            second: <shapes> / s
+            minute: <shapes> / m
+            hour: <shapes> / h
 
     # Settings menu, when you press "ESC"
     settingsMenu:

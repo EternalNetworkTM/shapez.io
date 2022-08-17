@@ -653,65 +653,65 @@ ingame:
 
     # Pops up in the demo every few minutes
     watermark:
-        title: Demo version
-        desc: Click here to see the advantages of the full version!
-        get_on_steam: Get on Steam
+        title: Демо версия
+        desc: Цъкни тук за да видиш предимствата на пълната версия!
+        get_on_steam: Вземи от Steam
 
     standaloneAdvantages:
         titleV2: >-
             Play the full version now on Steam to unlock:
-        titleExpiredV2: Demo completed!
-        titleEnjoyingDemo: Enjoying the demo?
+        titleExpiredV2: Демонстрацията завършена!
+        titleEnjoyingDemo: Наслаждаваш ли се на демонстрацията?
 
-        no_thanks: No, thanks!
+        no_thanks: Не, благодаря!
 
         points:
             levels:
-                title: 19 New Levels
+                title: 19 нови нива
                 desc: >-
-                    Over 20 hours of additional content!
+                    Над 20 часа допълнително съдържание!
             wires:
-                title: Wires
-                desc: An entirely new dimension!
+                title: Wires/Връзки
+                desc: Изцяло ново измерение!
 
             darkmode:
-                title: Dark Mode
-                desc: Stop hurting your eyes!
+                title: Тъмен режим
+                desc: Спрете да наранявате очите си!
 
             buildings:
-                title: 22 New Buildings
-                desc: Fully automate your factory!
+                title: 22 Нови сгради
+                desc: Напълно автоматизирайте вашата фабрика!
 
             achievements:
-                title: 45 Achievements
-                desc: Hunt them all!
+                title: 45 Постижения
+                desc: Hunt them all!/Преследвайте ги всички!
 
             mods:
-                title: Modding support!
-                desc: Over 80 mods available!
+                title: Modding support!/Поддръжка за модифициране!
+                desc: Over 80 mods available!/Над 80 мода са налични
 
             markers:
-                title: ∞ Markers
-                desc: Never get lost in your factory!
+                title: ∞ Маркери
+                desc: Never get lost in your factory!/Никога не се губиш в своята фабрика!
 
             support:
-                title: Support me
-                desc: I develop shapez in my spare time!
+                title: Support me/Подкрепи ме
+                desc: I develop shapez in my spare time!/Разработвам shapez в свободното си време!
 
     # puzzle mode
     puzzleEditorSettings:
-        zoneTitle: Zone
-        zoneWidth: Width
-        zoneHeight: Height
-        trimZone: Trim
-        clearItems: Clear Items
-        clearBuildings: Clear Buildings
-        resetPuzzle: Reset Puzzle
-        share: Share
-        report: Report
+        zoneTitle: Зона
+        zoneWidth: Ширина
+        zoneHeight: Височина
+        trimZone: Trim/Подстригване
+        clearItems: Clear Items/почисти елементите
+        clearBuildings: Clear Buildings/почисти сградите
+        resetPuzzle: Рестартирай Пъзела
+        share: Сподели
+        report: Report/Докладвай
 
     puzzleEditorControls:
-        title: Puzzle Creator
+        title: Puzzle Creator/Създаване на пъзел
         instructions:
             - 1. Place <strong>Constant Producers</strong> to provide shapes and colors to the player
             - 2. Build one or more shapes you want the player to build later and deliver it to one or more <strong>Goal Acceptors</strong>
@@ -721,19 +721,19 @@ ingame:
             - 6. Upon release, <strong>all buildings will be removed</strong> except for the Producers and Goal Acceptors - That's the part that the player is supposed to figure out for themselves, after all :)
 
     puzzleCompletion:
-        title: Puzzle Completed!
+        title: Puzzle Completed!/Пъзела е завършен
 
         titleLike: >-
-            Click the heart if you liked the puzzle:
-        titleRating: How difficult did you find the puzzle?
-        titleRatingDesc: Your rating will help me to make you better suggestions in the future
+           Кликнете върху сърцето, ако сте харесали пъзела:
+        titleRating: Колко труден ви се стори пъзелът?
+        titleRatingDesc: Your rating will help me to make you better suggestions in the future/Вашата оценка ще ми помогне да ви дам по-добри предложения в бъдеще
 
-        continueBtn: Keep Playing
-        menuBtn: Menu
-        nextPuzzle: Next Puzzle
+        continueBtn: Продължи да играеш
+        menuBtn: Меню
+        nextPuzzle: Следващ Пъзел
 
     puzzleMetadata:
-        author: Author
+        author: Автор
         shortKey: Short Key
         rating: Difficulty score
         averageDuration: Avg. Duration

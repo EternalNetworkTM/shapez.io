@@ -742,17 +742,17 @@ ingame:
 # All shop upgrades
 shopUpgrades:
     belt:
-        name: Belts, Distributor & Tunnels
-        description: Speed x<currentMult> → x<newMult>
+        name: Лент, Дистрибутори и Тунели
+        description: Скорост x<currentMult> → x<newMult>
     miner:
-        name: Extraction
-        description: Speed x<currentMult> → x<newMult>
+        name: Екстрактор
+        description: Скорост x<currentMult> → x<newMult>
     processors:
-        name: Cutting, Rotating & Stacking
-        description: Speed x<currentMult> → x<newMult>
+        name: Рязане, Завъртане и Стакване
+        description: Скорост x<currentMult> → x<newMult>
     painting:
-        name: Mixing & Painting
-        description: Speed x<currentMult> → x<newMult>
+        name: Смесване и Боядисване
+        description: Скорост x<currentMult> → x<newMult>
 
 # Buildings and their name / description
 buildings:

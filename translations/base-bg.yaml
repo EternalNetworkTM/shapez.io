@@ -5,22 +5,22 @@ steamPage:
     discordLinkShort: Официален Discord
 
     intro: >-
-        Do you like automation games? Then you are in the right place!
+        Харесвате ли игри за автоматизация? Тогава сте на правилното място!
 
-        shapez is a relaxed game in which you have to build factories for the automated production of geometric shapes. As the level increases, the shapes become more and more complex, and you have to spread out on the infinite map.
+        shapez е спокойна игра, в която трябва да изградите фабрики за автоматизирано производство на геометрични форми. С нарастването на нивото формите стават все по-сложни и вие трябва да се разпръснете върху безкрайната карта.
 
-        And as if that wasn't enough, you also have to produce exponentially more to satisfy the demands - the only thing that helps is scaling! While you only have to process shapes at the beginning, you will later have to color them - by extracting and mixing colors!
+        И сякаш това не е достатъчно, вие също трябва да произвеждате експоненциално повече, за да задоволите изискванията - единственото нещо, което помага, е мащабирането! Докато трябва само да обработвате форми в началото, по-късно ще трябва да ги оцветите - чрез извличане и смесване на цветове!
 
-        Buying the game on Steam gives you access to the full version, but you can also play a demo at shapez first and decide later!
+        Закупуването на играта в Steam ви дава достъп до пълната версия, но можете също така първо да пуснете демо в shapez и да решите по-късно!
 
-    what_others_say: What people say about shapez
+    what_others_say: Какво казват хората за shapez
 
     nothernlion_comment: >-
-        This game is great - I'm having a wonderful time playing, and time has flown by.
+        Тази игра е страхотна - прекарвам си прекрасно време, докато играя, а времето отлетя.
     notch_comment: >-
-        Oh crap. I really should sleep, but I think I just figured out how to make a computer in shapez
+        О глупости. Наистина трябва да спя, но мисля, че току-що разбрах как да направя компютър във shapez
     steam_review_comment: >-
-        This game has stolen my life and I don't want it back. Very chill factory game that won't let me stop making my lines more efficient.
+        Тази игра открадна живота ми и не го искам обратно. Много спокойна фабрична игра, която няма да ми позволи да спра да правя линиите си по-ефективни.
 
 global:
     loading: Зареждане
@@ -93,73 +93,73 @@ demoBanners:
         Пълната версия съдържа повече от <strong>20 часа допълнително съдържание</strong>!
 
     playtimeDisclaimerDownload: >-
-        You can continue your savegame in the full version! Click <strong>here</strong> to download your savegame.
+        Можете да продължите запазената си игра в пълната версия! Щракнете <strong>тук<strong>, за да изтеглите вашата запазена игра.
 
     playerCount: >-
-        <playerCount> players like you are playing shapez on Steam right now
-    untilEndOfDemo: Until end of demo
+        <playerCount> играчи като вас играят shapez в Steam в момента
+    untilEndOfDemo: До края на демонстрацията
 
 mainMenu:
     play: Играй
     continue: Продължи
     newGame: Нова игра
-    changelog: Changelog
+    changelog: Списък с промени
     subreddit: Reddit
     importSavegame: Вмъкни
-    openSourceHint: This game is open source!
+    openSourceHint: Тази игра е с отворен код!
     discordLink: Официален Дискорд Сървър
-    helpTranslate: Help translate!
-    madeBy: Made by <author-link>
+    helpTranslate: Помогнете с превода!
+    madeBy: Направено от <author-link>
     noActiveSavegames: Никаква записана игра не е намерена - Натисни играй за да започнеш игра!
 
-    playFullVersionV2: Bought shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
-    playingFullVersion: You are now playing the full version!
-    logout: Logout
+    playFullVersionV2: Купихте shapez от Steam? Играйте пълната версия във вашия браузър!
+    playFullVersionStandalone: Вече можете да играете и пълната версия във вашия браузър!
+    playingFullVersion: Вече играете пълната версия!
+    logout: Излез от профила си
 
     # This is shown when using firefox and other browsers which are not supported.
     browserWarning: >-
-        Sorry, but the game is known to run slowly on your browser! Get the full version or download Google Chrome for the full experience.
+        Съжаляваме, но е известно, че играта работи бавно на вашия браузър! Вземете пълната версия или изтеглете Google Chrome за пълно изживяване.
 
-    savegameLevel: Level <x>
-    savegameLevelUnknown: Unknown Level
-    savegameUnnamed: Unnamed
-    puzzleMode: Puzzle Mode
-    back: Back
+    savegameLevel: Ниво <x>
+    savegameLevelUnknown: Неизвестно ниво
+    savegameUnnamed: Без име
+    puzzleMode: Режим пъзел
+    back: Назад
 
     puzzleDlcText: >-
-        Do you enjoy compacting and optimizing factories?
-        Get the Puzzle DLC now on Steam for even more fun!
-    puzzleDlcWishlist: Wishlist now!
-    puzzleDlcViewNow: View Dlc
+        Обичате ли да уплътнявате и оптимизирате фабрики?
+        Вземете Puzzle DLC сега в Steam за още повече забавление!
+    puzzleDlcWishlist: Списък с желания сега!
+    puzzleDlcViewNow: Вижте DLC
 
     mods:
-        title: Active Mods
+        title: Активни модове
         warningPuzzleDLC: >-
-            Playing the Puzzle DLC is not possible with mods. Please disable all mods to play the DLC.
+            Играта на Puzzle DLC не е възможна с модове. Моля, деактивирайте всички модификации, за да възпроизведете DLC.
 
 puzzleMenu:
     play: Играй
-    edit: edit
+    edit: Рестартирай
     title: Пъзели
-    createPuzzle: направи пъзел
+    createPuzzle: Направи пъзел
     loadPuzzle: Зареди
-    reviewPuzzle: прегледай и сподели
+    reviewPuzzle: Прегледай и сподели
     validatingPuzzle: Validating Puzzle
     submittingPuzzle: Submitting Puzzle
     noPuzzles: There are currently no puzzles in this section.
     dlcHint: Purchased the DLC already? Make sure it is activated by right clicking shapez in your library, selecting Properties > DLCs.
 
     categories:
-        levels: Levels
-        new: New
-        top-rated: Top Rated
-        mine: Created
-        easy: Easy
-        medium: Medium
-        hard: Hard
-        completed: Completed
-        official: Tutorial
+        levels: Нива
+        new: Нов
+        top-rated: Най-високо оценен
+        mine: Създаден
+        easy: Лесно
+        medium: Среден
+        hard: Трудно
+        completed: Завършено
+        official: Урок
         trending: Trending today
         trending-weekly: Trending weekly
         categories: Categories
@@ -827,7 +827,6 @@ buildings:
         rotate180:
             name: Rotator (180°)
             description: Завърта фигури  с 180 градуса.
-        ccw:
 
     stacker:
         default:
